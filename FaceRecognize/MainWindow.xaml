@@ -1,0 +1,11 @@
+﻿<Window x:Class="FaceRecognize.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
+        Title="MainWindow" Height="350" Width="450">
+    <Grid x:Name="BackPanel">
+        <Image x:Name="FacePhoto" Stretch="Uniform" Margin="0,0,0,30"/>
+        <Button x:Name="BrowseButton" Margin="20,5" Height="20"         
+                VerticalAlignment="Bottom" Content="Browse..."                
+                Click="BrowseButton_Click"/>
+    </Grid>
+</Window>

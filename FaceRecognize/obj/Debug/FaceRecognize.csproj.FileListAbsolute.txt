@@ -1,0 +1,16 @@
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\bin\Debug\FaceRecognize.exe.config
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\bin\Debug\FaceRecognize.exe
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\bin\Debug\FaceRecognize.pdb
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\bin\Debug\Microsoft.ProjectOxford.Face.dll
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\bin\Debug\Newtonsoft.Json.dll
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\bin\Debug\Newtonsoft.Json.xml
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize.csprojResolveAssemblyReference.cache
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\MainWindow.baml
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\MainWindow.g.cs
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\App.g.cs
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize_MarkupCompile.cache
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize.g.resources
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize.Properties.Resources.resources
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize.csproj.GenerateResource.Cache
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize.exe
+c:\users\alex31\documents\visual studio 2015\Projects\FaceRecognize\FaceRecognize\obj\Debug\FaceRecognize.pdb
